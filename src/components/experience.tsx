@@ -1,5 +1,4 @@
 // Experience.jsx
-import React from 'react';
 import ExperienceTimeline from './ExperienceTimeline.tsx'; // adjust path as needed
 
 const Experience = () => {
